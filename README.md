@@ -78,7 +78,7 @@ The project covers the full data analytics pipeline: data loading → cleaning �
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 | Finding | Insight |
 |---|---|
