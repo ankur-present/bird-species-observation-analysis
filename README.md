@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## Project Overview
-Analysis of bird species distribution and diversity across two distinct ecosystems — **forests** and **grasslands** — using real observational data from 11 national parks and historical sites in the United States.
+Analysis of bird species distribution and Diversity across two distinct ecosystems — forests and grasslands — using real observational data from 11 national parks and historical sites in the United States of america.
 
 The project covers the full data analytics pipeline: data loading → cleaning → EDA → SQL → Power BI dashboard.
 
